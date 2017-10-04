@@ -8,4 +8,5 @@ function f(n) {
 	return n * f(n - 1);
 }
 document.write(f(5));
-//console.log("dgd");
+console.log("On branch 02");
+console.log("another console.log");
