@@ -8,3 +8,4 @@ function f(n) {
 	return n * f(n - 1);
 }
 document.write(f(5));
+console.log("stuff");
